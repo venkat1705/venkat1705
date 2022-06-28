@@ -26,3 +26,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstud
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkat1705&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="venkat1705" /></p>
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkat1705&show_icons=true&locale=en&theme=radical" alt="venkat1705" /></p>
+<details>
+  <summary>📈 Activity Graph</summary>
+  <br/>
+  <h2 align="center"> my current activity </h2>
+<a href="https://github.com/venkat1705/github-readme-activity-graph"><img alt="venkats's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=venkat1705&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+</details>
