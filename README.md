@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Venkata Rami Reddy M</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student+At+KL+University;Competitive+Programmer;Blockchain+enthusias;Web3+follower;Web+Developer;DS%20|%20Algorithms%20|%20on%20Codeforces;Division%203%20on%20Codechef%20(2%20Stars);;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student+At+KL+University;Competitive+Programmer;Blockchain+enthusiast;Web3+follower;Web+Developer;DS%20|%20Algorithms%20|%20on%20Codeforces;Division%203%20on%20Codechef%20(2%20Stars);;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 - 📫 How to reach me **venkataramireddyvenky@gmail.com**
 
@@ -24,7 +24,11 @@ src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" wi
 <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original-wordmark.svg" alt="cplusplus" width="40" height="40"/> </a> 
 
-<br/>
+<br>
+ <h3> 🔥 Streak Stats</h3>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
+<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkat1705&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="venkat1705" /></p>
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkat1705&show_icons=true&locale=en&theme=radical" alt="venkat1705" /></p>
