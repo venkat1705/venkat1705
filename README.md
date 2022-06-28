@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋I'm Venkata Rami Reddy M
+
+##I'm a Competetive Coder,Web Developer,Learner,BlockChain follower&Web3 enthusiast.
+
 
 <!--
 **venkat1705/venkat1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
