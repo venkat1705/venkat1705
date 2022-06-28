@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venkata Rami Reddy M</h1>
-<h3 align="center">A Competetive Programmer,Learner, Web Developer ,BlockChain follower&Web3 enthusiast</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;Web+Developer;DS%20|%20Algorithms%20|%20on%20Codeforces;Division%203%20on%20Codechef%20(2%20Stars);;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 - 📫 How to reach me **venkataramireddyvenky@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
