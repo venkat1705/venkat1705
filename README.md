@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Venkata Rami Reddy M</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;Web+Developer;DS%20|%20Algorithms%20|%20on%20Codeforces;Division%203%20on%20Codechef%20(2%20Stars);;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student+At+KL+University;Competitive+Programmer;Blockchain+enthusias;Web3+follower;Web+Developer;DS%20|%20Algorithms%20|%20on%20Codeforces;Division%203%20on%20Codechef%20(2%20Stars);;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 - 📫 How to reach me **venkataramireddyvenky@gmail.com**
 
