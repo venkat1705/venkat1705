@@ -27,7 +27,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstud
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkat1705&show_icons=true&locale=en&theme=radical" alt="venkat1705" /></p>
 <br/>
- :trophy: Git profile Trophies
+ <h3>:trophy: Git profile Trophies</h3>
 
 <p align="center"> <a href="https://github.com/venkat1705/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkat1705&layout=compact&theme=radical" alt="venkat1705" /></a> </p>
 <details>
