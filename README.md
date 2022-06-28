@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkata Rami Reddy M</h1>
 <h3 align="center">A Competetive Programmer,Learner, Web Developer ,BlockChain follower&Web3 enthusiast</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkat1705&label=Profile%20views&color=0e75b6&style=flat" alt="venkat1705" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkat1705" alt="venkat1705" /></a> </p>
-
 - 📫 How to reach me **venkataramireddyvenky@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
