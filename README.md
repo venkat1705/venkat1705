@@ -23,6 +23,6 @@ src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" wi
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original-wordmark.svg" alt="cplusplus" width="40" height="40"/> </a> 
 
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkat1705&show_icons=true&locale=en&layout=compact&theme=radical" alt="venkat1705" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkat1705&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="venkat1705" /></p>
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkat1705&show_icons=true&locale=en" alt="venkat1705" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkat1705&show_icons=true&locale=en&theme=radical" alt="venkat1705" /></p>
