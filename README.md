@@ -26,7 +26,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstud
 
 <br>
  <h3> 🔥 Streak Stats</h3>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=venkat1705&theme=radical" alt="venkat1705" /></p>
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkat1705&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="venkat1705" /></p>
